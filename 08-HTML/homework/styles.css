@@ -1,0 +1,22 @@
+
+             h1{
+                 color:lime
+             }
+             img {
+                 width:400px;
+             }
+             #thirdDiv{
+                 height:600px;
+                 width:500px;
+                 background-color:red;
+                 padding:50px;
+                 border: 20px;
+                 border-color: orange;
+                 border-style: dotted;
+             }
+             #spanId{
+                 font-size: 18px;
+                 margin: 50px;
+             }
+
+       
